@@ -11,6 +11,20 @@
   </div>
 
   <div class="image-wrapper">
+    <img src="https://github-readme-stats.vercel.app/api?username=intelligent-username&show_icons=true&theme=dark" alt="GitHub Stats">
+  </div>
+
+  <div class="image-wrapper">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=intelligent-username&repo=REPO-NAME&theme=dark" alt="Most Starred Repo">
+  </div>
+
+  <div class="image-wrapper">
+    <img src="https://komarev.com/ghpvc/?username=intelligent-username&color=blue" alt="Profile Views">
+  </div>
+</div>
+
+<div class="container">
+  <div class="image-wrapper">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/intelligent-username/intelligent-username/raw/main/dist/github-snake-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://github.com/intelligent-username/intelligent-username/raw/main/dist/github-snake.svg" />
