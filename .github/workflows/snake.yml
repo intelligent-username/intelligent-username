@@ -35,10 +35,12 @@ jobs:
       - name: List dist contents
         run: ls -la dist
 
-      - name: Deploy to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
+      - name: Push snake.svg to main branch
+        run: |
+          git config --global user.name "${{ github.repository_owner }}"
+          git config --global user.email "${{ github.repository_owner }}@users.noreply.github.com"
+          git add dist/github-snake.svg dist/github-snake-dark.svg
+          git commit -m "Update snake animation"
+          git push origin main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
