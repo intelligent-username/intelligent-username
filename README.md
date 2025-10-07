@@ -20,4 +20,7 @@
 
 </div>
 
-"Give me an input and I'll give you an output"
+<div align="center" style="margin-top:1em;">
+  <strong>Yo <span style="color:#61dafb;"></span></strong><br/>
+  "Give me an input and I'll give you an output."
+</div>
