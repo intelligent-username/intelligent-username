@@ -1,4 +1,4 @@
-name: Generate snake animation
+name: Generate Snake Animation
 
 on:
   schedule: # execute every 6 hours
@@ -8,7 +8,7 @@ on:
 
   push:
     branches:
-    - master
+    - main
 
 jobs:
   generate:
