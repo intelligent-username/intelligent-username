@@ -30,6 +30,7 @@
   .caption {
     text-align: center;
     margin-top: 1em;
+    width: 100%
   }
 </style>
 
@@ -52,6 +53,6 @@
 </div>
 
 <div class="caption">
-  <strong>Yo, <span style="color:#61dafb;"></span></strong><br/>
+  <strong><span style="color:#61dafb;">Yo</span></strong><br/>
   "Give me an input and I'll give you an output."
 </div>
