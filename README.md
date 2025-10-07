@@ -15,7 +15,7 @@
   </div>
 
   <div class="image-wrapper">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=intelligent-username&repo=REPO-NAME&theme=dark" alt="Most Starred Repo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=intelligent-username&repo=Tensor-Benchmarks&theme=dark" alt="Most Starred Repo">
   </div>
 
   <div class="image-wrapper">
