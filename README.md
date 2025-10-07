@@ -4,24 +4,15 @@
 <div class="gif-container">
   <img src="anim.gif" alt="Animation" style="max-width:100%;"/>
 </div>
+<td><img src="https://komarev.com/ghpvc/?username=intelligent-username&color=blue&style=flat" alt="Profile Views"></td>
 
-<div class="container" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; align-items: flex-start;">
-  <div class="image-wrapper" style="flex: 1; min-width: 200px; text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=intelligent-username&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages">
-  </div>
-
-  <div class="image-wrapper" style="flex: 1; min-width: 200px; text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=intelligent-username&show_icons=true&theme=dark" alt="GitHub Stats">
-  </div>
-
-  <div class="image-wrapper" style="flex: 1; min-width: 200px; text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=intelligent-username&repo=Tensor-Benchmarks&theme=dark" alt="Most Starred Repo">
-  </div>
-
-  <div class="image-wrapper" style="flex: 1; min-width: 200px; text-align: center;">
-    <img src="https://komarev.com/ghpvc/?username=intelligent-username&color=blue" alt="Profile Views">
-  </div>
-</div>
+<table style="border:none;">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=intelligent-username&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=intelligent-username&show_icons=true&theme=dark&hide_border=false" alt="GitHub Stats"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=intelligent-username&repo=Tensor-Benchmarks&theme=dark&hide_border=false" alt="Featured Repo"></td>
+  </tr>
+</table>
 
 <div class="container">
   <div class="image-wrapper">
