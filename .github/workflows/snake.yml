@@ -39,8 +39,8 @@ jobs:
         run: |
           git config --global user.name "${{ github.repository_owner }}"
           git config --global user.email "${{ github.repository_owner }}@users.noreply.github.com"
-          git add dist/github-snake.svg dist/github-snake-dark.svg
-          git commit -m "Update snake animation"
+          git add dist/github-snake.svg dist/github-snake-dark.svg || exit 0
+          git diff --cached --quiet || git commit -m "(AUTOMATIC) Update snake animation"
           git push origin main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
