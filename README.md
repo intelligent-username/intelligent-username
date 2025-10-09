@@ -24,7 +24,7 @@
   </div>
 </div>
 
-<div class="caption">
-  <strong><span style="color:#61dafb;">Yo</span></strong><br/>
+<div class="caption" style = "text-align: center; font-size: 24px; margin-top: 10px;">
+  <strong><span style="color:#61dafb;"><!-- Yo --></span></strong><br/>
   "Give me an input and I'll give you an output."
 </div>
