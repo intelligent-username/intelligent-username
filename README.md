@@ -4,7 +4,7 @@
   <!-- <img src="animation.gif" alt="Animation" style="max-width:100%;"/> -->
   <img src = "home.jpg" alt = "Farm house and mill in the moonlight by Aivazovsky, 1863" style = max-width:100%;>
 </div>
-<td><img src="https://komarev.com/ghpvc/?username=intelligent-username&color=blue&style=flat" alt="Profile Views"></td>
+<div align="right"><img src="https://komarev.com/ghpvc/?username=intelligent-username&color=blue&style=flat" alt="Profile Views"></div>
 
 <!-- <table style="border:none;">
   <tr>
@@ -24,7 +24,7 @@
   </div>
 </div>
 
-<div class="caption" style = "text-align: center; font-size: 24px; margin-top: 10px;">
+<!-- <div class="caption" style = "text-align: center; font-size: 24px; margin-top: 10px;">
   <span style="color:#61dafb;">"Give me an input and I'll give you an output."</span>
-</div>
+</div> -->
 <!-- <span style="color: red;">Red text.</span> -->
