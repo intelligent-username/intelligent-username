@@ -1,17 +1,18 @@
 <!-- markdownlint-disable -->
 
 <div class="gif-container">
-  <img src="anim.gif" alt="Animation" style="max-width:100%;"/>
+  <!-- <img src="animation.gif" alt="Animation" style="max-width:100%;"/> -->
+  <img src = "home.jpg" alt = "Farm house and mill in the moonlight by Aivazovsky, 1863" style = max-width:100%;>
 </div>
 <td><img src="https://komarev.com/ghpvc/?username=intelligent-username&color=blue&style=flat" alt="Profile Views"></td>
 
-<table style="border:none;">
+<!-- <table style="border:none;">
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=intelligent-username&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages"></td>
     <td><img src="https://github-readme-stats.vercel.app/api?username=intelligent-username&show_icons=true&theme=dark&hide_border=false" alt="GitHub Stats"></td>
     <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=intelligent-username&repo=Tensor-Benchmarks&theme=dark&hide_border=false" alt="Featured Repo"></td>
   </tr>
-</table>
+</table> -->
 
 <div class="container">
   <div class="image-wrapper">
@@ -24,6 +25,6 @@
 </div>
 
 <div class="caption" style = "text-align: center; font-size: 24px; margin-top: 10px;">
-  <strong><span style="color:#61dafb;">"Give me an input and I'll give you an output."</span></strong><br/>
-  <p style = "font-style: italic; text-align: center;"><!--Add more here eventually--> </p>
+  <span style="color:#61dafb;">"Give me an input and I'll give you an output."</span>
 </div>
+<!-- <span style="color: red;">Red text.</span> -->
