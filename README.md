@@ -1,8 +1,8 @@
 <!-- markdownlint-disable -->
 
-<div style="display: flex; align-items: center;"><h1>Hey</h1><img src="mation/wave.png" width="32px"></div>
+# Hey <img src="mation/wave.png" width="29px">
 
-
+I'm Varak.
 
 <div class="gif-container">
   <!-- <img src="animation.gif" alt="Animation" style="max-width:100%;"/> -->
@@ -12,7 +12,7 @@
 </div>
 
 
-<div style="width: 100%; display: flex; align-items: center;"><h2>Statistics, Tech Stack: </h2><img src="mation/run.png" width="32px" style="transform:scaleX(1)"></div>
+## Statistics & Tech Stack <img src="mation/run.png" width="32px" style="transform:scaleX(1)">
 
 <!-- Regular stats -->
 
