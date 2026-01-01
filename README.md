@@ -1,6 +1,6 @@
 <!-- markdownlint-disable -->
 
-<div style="width: 100%; display: flex; justify-content: space-between; align-items: center;"><h1>Hey</h1><img src="mation/wave.png" width="32px"></div>
+<div style="display: flex; align-items: center;"><h1>Hey</h1><img src="mation/wave.png" width="32px"></div>
 
 
 
@@ -11,6 +11,22 @@
   <div align="right"><img src="https://komarev.com/ghpvc/?username=intelligent-username&color=blue&style=flat" alt="Profile Views">
 </div>
 
+
+<div style="width: 100%; display: flex; align-items: center;"><h2>Statistics, Tech Stack: </h2><img src="mation/run.png" width="32px" style="transform:scaleX(1)"></div>
+
+<!-- Regular stats -->
+
+<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+<p>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img 
+      alt="intelligent-username's streak" 
+      src="https://github-readme-streak-stats-eight.vercel.app/?user=intelligent-username&theme=monokai-metallian&hide_border=true&short_numbers=true"
+    />
+  </a>
+</p>
+
+
 <!-- Stats, etc. table -->
 
 <!-- <table style="border:none;">
@@ -20,14 +36,6 @@
     <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=intelligent-username&repo=tachion&theme=dark&hide_border=false" alt="Featured Repo"></td>
   </tr>
 </table> -->
-
-<!-- Or just regular stats -->
-
-<div style="width: 100%; display: flex; justify-content: space-between; align-items: center;"><h2>Some of my Statistics & Tech Stack:</h2><img src="mation/run.png" width="32px" style="transform:scaleX(1)"></div>
-
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=intelligent-username&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
 
 
 <!-- Snake animation -->
@@ -71,4 +79,3 @@
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
-
