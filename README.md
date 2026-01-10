@@ -46,9 +46,9 @@ I'm Varak.
 <div class="container">
   <div class="image-wrapper">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/intelligent-username/intelligent-username/raw/main/dist/github-snake-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github.com/intelligent-username/intelligent-username/raw/main/dist/github-snake.svg" />
-      <img alt="github-snake" src="https://github.com/intelligent-username/intelligent-username/raw/main/dist/github-snake.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+      <img alt="github-snake" src="dist/github-snake.svg">
     </picture>
   </div>
 </div>
