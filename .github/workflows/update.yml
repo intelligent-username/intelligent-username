@@ -2,12 +2,12 @@ name: Update dist assets
 
 on:
   schedule:
-      # Update the snake animation once per week
-      # 12:01 AM EST (5:01 UTC), (represented by 1 5)
-      # Saturdays, represented by the 6
-      # Put out of service for a while
-      # Check every month/day of month, represented by * *
-    - cron: "1 5 * * 6" 
+    # Update the snake animation once per week
+    # 12:01 AM EST (5:01 UTC), (represented by 1 5)
+    # Saturdays, represented by the 6
+    # Put out of service for a while
+    # Check every month/day of month, represented by * *
+    - cron: "1 5 * * 6"
   workflow_dispatch:
   push:
     branches:

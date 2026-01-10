@@ -72,6 +72,11 @@ I'm Varak.
   <img src="icons/numpy.svg" height="48" alt="numpy logo"  />
   <img width="12" />
   <img src="icons/mysql.svg" height="48" alt="mysql logo"  />
+  <img width="12" />
+  <img src="icons/huggingface.svg" height="48" alt="docker logo"  />
+  <img width="12" />
+  <img src='icons/docker.svg' height="48" alt="docker logo"  />
+  <img width="12" />
 </div>
 
 <!-- Just a border, don't bother customizing -->
